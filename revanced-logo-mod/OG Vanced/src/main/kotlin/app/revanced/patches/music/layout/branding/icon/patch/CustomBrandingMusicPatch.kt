@@ -82,12 +82,12 @@ class CustomBrandingMusicPatch : ResourcePatch {
             )
         )
 
-        private var appIconPath: String? by option(
+        private var iconPath: String? by option(
             PatchOption.StringOption(
-                key = "appIconPath",
+                key = "iconPath",
                 default = null,
-                title = "Application Icon Path",
-                description = "A path to the icon of the application."
+                title = "App Icon Path",
+                description = "A path containing mipmap resource folders with icons."
             )
         )
     }
