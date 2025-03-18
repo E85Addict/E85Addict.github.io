@@ -9,7 +9,6 @@ cdn-f.adsmoloco.com
 tr-asia.adsmoloco.com
 tr-eu.adsmoloco.com
 tr-us.adsmoloco.com
-[amazon-adsystem.com]
 amazon-adsystem.com
 aax.amazon-adsystem.com
 aax-eu-retail-direct.amazon-adsystem.com
@@ -39,7 +38,6 @@ device-metrics-us-2.amazon.com
 aax-dtb-cf.amazon-adsystem.com
 mads.amazon.com
 ts.amazon-adsystem.com
-[amazon-adsystem.com]
 amazon-adsystem.com
 aax.amazon-adsystem.com
 aax-eu-retail-direct.amazon-adsystem.com
